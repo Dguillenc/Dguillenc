@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Electr%C3%B3nica+de+Defensa+%E2%86%92+Data+Engineering;Python+%2B+SQL+%2B+Power+BI;Construyendo+pipelines+de+datos&background=00000000" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Electr%C3%B3nica+de+Defensa+%E2%86%92+Data+Engineering;Python+%2B+SQL+%2B;Construyendo+pipelines+de+datos&background=00000000" />
 </div>
 
 </div>
