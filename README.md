@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2088FF&center=true&vCenter=true&width=600&lines=T%C3%A9cnico+Electr%C3%B3nico+%E2%86%92+Data+Engineer;Sistemas+embebidos+%2B+Python+%2B+SQL;Construyendo+pipelines+de+datos" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2088FF&center=true&vCenter=true&width=600&lines=T%C3%A9cnico+Electr%C3%B3nico+%E2%86%92+Data+Engineer;%2B+Python+%2B+SQL;Construyendo+pipelines+de+datos" />
 </div>
 
 ---
