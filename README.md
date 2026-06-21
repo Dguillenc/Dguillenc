@@ -14,7 +14,7 @@
 
 - 🔧 Trabajo como **Técnico Electrónico/Naval** en Indra Sistemas, con experiencia en sistemas de defensa e instrumentación de alta exigencia.
 - 🎓 Estudiando el Grado en **Ciencia de Datos Aplicada** en la UOC.
-- 🎯 Objetivo: dar el salto a un puesto relacionado con **Data Engineering**.
+- 🎯 Objetivo: aprender todo lo  relacionado con **Data Engineering**.
 - 🛠️ Construyendo proyectos propios de punta a punta: ingesta, transformación, automatización y despliegue.
 - 📍 Actualmente en Cartagena / Murcia, España.
 
