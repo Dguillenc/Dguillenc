@@ -1,9 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0d1117&height=200&section=header&text=Dani%20Guillén&fontSize=50&fontColor=ffffff&desc=Técnico%20Electrónico%20→%20Data%20Engineer&descAlignY=65&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=200&section=header&text=Dani%20Guillén&fontSize=50&fontColor=ffffff&desc=Electrónica%20de%20Defensa%20→%20Data%20Engineering&descAlignY=65&animation=fadeIn" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2088FF&center=true&vCenter=true&width=600&lines=T%C3%A9cnico+Electr%C3%B3nico+%E2%86%92+Data+Engineer;%2BPython+%2B+SQL;Construyendo+pipelines+de+datos" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Electr%C3%B3nica+de+Defensa+%E2%86%92+Data+Engineering;Python+%2B+SQL+%2B+Power+BI;Construyendo+pipelines+de+datos&background=00000000" />
+</div>
+
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=Dguillenc&color=58A6FF&style=flat-square&label=Visitas+al+perfil)
+
 </div>
 
 ---
@@ -20,27 +26,43 @@
 
 ### 💡 Lo que sé hacer
 
-- 🐍 **Python** — limpieza, transformación y automatización de datos (pandas, scripts de ETL)
-- 🗄️ **SQL** — consultas, modelado de datos, resolución de problemas de negocio
-- 📊 **Power BI** — dashboards e informes de analítica
-- 📈 **R** — análisis estadístico y modelado
-- ⚙️ **GitHub Actions** — automatización y orquestación de pipelines
-- 🔍 **Feature engineering** — tratamiento de datos faltantes, codificación, selección de variables, PCA
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Datos**
+- 🐍 Python — limpieza, transformación y automatización (pandas, ETL)
+- 🗄️ SQL — consultas, modelado, resolución de problemas de negocio
+- 📈 R — análisis estadístico y modelado
+- 🔍 Feature engineering — datos faltantes, codificación, selección de variables, PCA
+
+</td>
+<td width="50%" valign="top">
+
+**Herramientas**
+- 📊 Power BI — dashboards e informes
+- ⚙️ GitHub Actions — automatización de pipelines
+- 🗂️ Git — control de versiones
+- 💻 VS Code — entorno de desarrollo
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🧰 Stack y herramientas
+### 🧰 Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4479A1)
+![R](https://img.shields.io/badge/R-0d1117?style=for-the-badge&logo=r&logoColor=276DC3)
+![Power BI](https://img.shields.io/badge/Power_BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
 </div>
 
@@ -58,11 +80,11 @@
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dguillenc&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dguillenc&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dguillenc&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dguillenc&theme=dark&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dguillenc&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dguillenc&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF)
 
 </div>
 
@@ -72,8 +94,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielgc97)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/danielgc97)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0d1117&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=100&section=footer" />
