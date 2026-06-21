@@ -12,7 +12,7 @@
 
 ### 🧭 Sobre mí
 
-- 🔧 Trabajo como **Técnico de Mantenimiento Electrónico y Eléctrico** en Indra Sistemas, con experiencia en sistemas de defensa e instrumentación de alta exigencia.
+- 🔧 Trabajo como **Técnico Electrónico/Naval** en Indra Sistemas, con experiencia en sistemas de defensa e instrumentación de alta exigencia.
 - 🎓 Estudiando el Grado en **Ciencia de Datos Aplicada** en la UOC.
 - 🎯 Objetivo: dar el salto a un puesto relacionado con **Data Engineering**.
 - 🛠️ Construyendo proyectos propios de punta a punta: ingesta, transformación, automatización y despliegue.
@@ -36,7 +36,6 @@
 <td width="50%" valign="top">
 
 **Herramientas**
-- 📊 Power BI — dashboards e informes
 - ⚙️ GitHub Actions — automatización de pipelines
 - 🗂️ Git — control de versiones
 - 💻 VS Code — entorno de desarrollo
