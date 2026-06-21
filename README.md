@@ -8,8 +8,6 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=Dguillenc&color=58A6FF&style=flat-square&label=Visitas+al+perfil)
-
 </div>
 
 ---
