@@ -1,22 +1,31 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0d1117&height=200&section=header&text=Dani%20Guillén&fontSize=50&fontColor=ffffff&desc=Técnico%20Electrónico%20→%20Data%20Engineer&descAlignY=65&animation=fadeIn" />
+</div>
 
-# Hola Soy Dani 👋
-
-### Técnico Electrónico → Data Engineer en construcción 🚀
-
-Combino experiencia en sistemas de electrónica de defensa con formación en Data Science / Engineering, en proceso de transición hacia la ingeniería de datos.
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2088FF&center=true&vCenter=true&width=600&lines=T%C3%A9cnico+Electr%C3%B3nico+%E2%86%92+Data+Engineer;Sistemas+embebidos+%2B+Python+%2B+SQL;Construyendo+pipelines+de+datos" />
 </div>
 
 ---
 
 ### 🧭 Sobre mí
 
-- 🔧 Trabajo como **Técnico de Mantenimiento Electrónico y Eléctrico** en Indra Sistemas, con experiencia en sistemas de defensa  e instrumentación de alta exigencia.
+- 🔧 Trabajo como **Técnico de Mantenimiento Electrónico y Eléctrico** en Indra Sistemas, con experiencia en sistemas de defensa e instrumentación de alta exigencia.
 - 🎓 Estudiando el Grado en **Ciencia de Datos Aplicada** en la UOC.
 - 🎯 Objetivo: dar el salto a un puesto relacionado con **Data Engineering**.
 - 🛠️ Construyendo proyectos propios de punta a punta: ingesta, transformación, automatización y despliegue.
 - 📍 Actualmente en Cartagena / Murcia, España.
+
+---
+
+### 💡 Lo que sé hacer
+
+- 🐍 **Python** — limpieza, transformación y automatización de datos (pandas, scripts de ETL)
+- 🗄️ **SQL** — consultas, modelado de datos, resolución de problemas de negocio
+- 📊 **Power BI** — dashboards e informes de analítica
+- 📈 **R** — análisis estadístico y modelado
+- ⚙️ **GitHub Actions** — automatización y orquestación de pipelines
+- 🔍 **Feature engineering** — tratamiento de datos faltantes, codificación, selección de variables, PCA
 
 ---
 
@@ -66,3 +75,5 @@ Combino experiencia en sistemas de electrónica de defensa con formación en Dat
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielgc97)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0d1117&height=100&section=footer" />
