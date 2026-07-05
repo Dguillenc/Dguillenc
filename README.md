@@ -27,9 +27,10 @@
 <td width="50%" valign="top">
 
 **Datos**
-- 🐍 Python — limpieza, transformación y automatización (pandas, ETL)
+- 🐍 Python — limpieza, transformación y automatización (pandas, pyspark)
 - 🗄️ SQL — consultas, modelado, resolución de problemas de negocio
-- 📈 R — análisis estadístico y modelado
+- 📈  — ETL y ELT
+- 🌐 Azure, Databrick, Data Factory
 - 🔍 Feature engineering — datos faltantes, codificación, selección de variables, PCA
 
 </td>
@@ -65,7 +66,7 @@
 
 ### 📌 Proyecto destacado
 
-> 🚧 **pipeline** Analítica de salud personal — ETL en Python, almacenamiento en DuckDB, informes generados con IA y entrega automática vía Telegram Bot, todo orquestado con GitHub Actions.
+> ⌚ **PIPELINE** de analítica de salud personal — ETL en Python, almacenamiento en DuckDB, informes generados con IA y entrega automática vía Telegram Bot, todo orquestado con GitHub Actions.
 >🔗 github.com/Dguillenc/health-analytics-pipeline
 
 ---
