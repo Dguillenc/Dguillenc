@@ -65,9 +65,8 @@
 
 ### 📌 Proyecto destacado
 
-> 🚧 **Próximamente**: pipeline de analítica de salud personal — ETL en Python, almacenamiento en DuckDB, informes generados con IA y entrega automática vía Telegram Bot, todo orquestado con GitHub Actions.
->
-> Lo estoy reconstruyendo desde cero con una arquitectura profesional (estructura modular, logging, tests). En cuanto esté listo, lo enlazo aquí 👇
+> 🚧 **pipeline** Analítica de salud personal — ETL en Python, almacenamiento en DuckDB, informes generados con IA y entrega automática vía Telegram Bot, todo orquestado con GitHub Actions.
+>🔗 github.com/Dguillenc/health-analytics-pipeline
 
 ---
 
