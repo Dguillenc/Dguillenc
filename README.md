@@ -94,3 +94,5 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=100&section=footer" />
+
+![](https://komarev.com/ghpvc/?username=Dguillenc&color=blue)
